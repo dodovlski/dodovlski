@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi, I am Dodovlski! 👋
 
-<!--
-**dodovlski/dodovlski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏽‍💻 I am a Computer Science student
 
-Here are some ideas to get you started:
+🎮 Particularly interested in game development and data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✍🏾 At the same time, I try to gain ideas in different fields.
+
+## Tech Stack 🚀
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+
+## GitHub Stats 📊
+
+![Dodovlski'nin GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Dodovlski&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dodovlski&theme=radical)](https://github.com/Dodovlski)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dodovlski&layout=compact&theme=radical)](https://github.com/Dodovlski)
+
+## GitHub Trophies 🏆
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dodovlski&theme=nord)](https://github.com/Dodovlski)
+
+## Profile Views 🌐
+
+![Profile Views](https://profile-counter.glitch.me/Dodovlski/count.svg)
