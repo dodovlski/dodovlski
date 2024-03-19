@@ -21,7 +21,3 @@
 ## GitHub Trophies 🏆
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dodovlski&theme=nord)](https://github.com/Dodovlski)
-
-## Profile Views 🌐
-
-![Profile Views](https://profile-counter.glitch.me/Dodovlski/count.svg)
