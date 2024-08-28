@@ -16,9 +16,5 @@
 ## GitHub Stats 📊
 
 ![Dodovlski'nin GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Dodovlski&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dodovlski&theme=radical)](https://github.com/Dodovlski)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dodovlski&layout=compact&theme=radical)](https://github.com/Dodovlski)
 
-## GitHub Trophies 🏆
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dodovlski&theme=nord)](https://github.com/Dodovlski)
